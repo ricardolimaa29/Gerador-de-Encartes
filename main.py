@@ -30,10 +30,10 @@ def main(pagina: ft.Page):
 
     connection_string = (
         "Driver={SQL Server};"
-        "Server=SRVSQL01;"
+        "Server=??"
         "Database=MOINHO;"
         "UID=TargetAdmin;"  
-        "PWD=dlh%9>?xiyh1QPB;"  
+        "PWD=??"  
         "Trusted_Connection=no;"
     )
 
